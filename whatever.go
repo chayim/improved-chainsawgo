@@ -1,4 +1,4 @@
-package improved_chainsaw
+package improved_chainsawgo
 
 import (
 	"context"
