@@ -17,7 +17,7 @@ import (
 //go:embed resources/libredis.wasm
 var greetWasm []byte
 
-func foof() {
+func FOOF() {
 	// Choose the context to use for function calls.
 	ctx := context.Background()
 
